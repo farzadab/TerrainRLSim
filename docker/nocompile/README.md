@@ -3,6 +3,7 @@
 **INCOMPLETE:** data is not yet included because it's huge. Will try to figure this out soon.
 
 Instructions:
+  - install docker: [official instructions](https://docs.docker.com/install/)
   - build:
 ```bash
 docker build -t terrainrlnodata .

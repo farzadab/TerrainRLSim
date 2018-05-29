@@ -1,6 +1,7 @@
 # Docker image to compile everything from scratch
 
 Instructions:
+  - install docker: [official instructions](https://docs.docker.com/install/)
   - build:
 ```bash
 docker build -t terrainrlnodata .
